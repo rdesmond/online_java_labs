@@ -21,4 +21,25 @@ Answer the following questions:
 
 10.) How can you use the shorthand addition operator to add 10 to a variable "x"?
 
+11.) What data type is a String?
+
+12.) Are string mutable?
+
+13.) How do you concatenate Strings?
+
+14.) Can you cast and int to a String or a String to an int? Why or why not?
+
+15.) What is an array?
+
+16.) What is the first index of an array?
+
+17.) Can you change the size of an array once it has been declared and initialized?
+
+18.) How do you print the 5th element in an array "exampleArray"?
+
+19.) What are the two ways you can declare and initialize an array? Demonstrate both.
+
+20.) How do you iterate through a multidimensional array?
+
+21.) What is the for-each loop used for?
 
