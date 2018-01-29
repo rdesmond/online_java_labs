@@ -15,5 +15,12 @@ package inheritance.labs;
  *      6) Demonstrate constructor overloading and the use of the "super" keyword.
  *      7) Demonstrate method overloading.
  *
+ *      NOTE: We encourage you to be creative and try to think of an example of your own for this
+ *       exercise but if you are stuck, some ideas include:
+ *
+ *       - A Vehicle superclass, with Truck and Motorcycle subclasses.
+ *       - A Restaurant superclass, with Gourmet and FastFood subclasses.
+ *
+ *
  */
 
